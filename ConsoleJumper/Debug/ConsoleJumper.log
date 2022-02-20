@@ -1,0 +1,3 @@
+﻿  ConsoleJumper.cpp
+D:\Projects\CPP\ConsoleJumper_GH\ConsoleJumper\ConsoleJumper.cpp(88,27): warning C4018: '<': signed/unsigned mismatch
+  ConsoleJumper.vcxproj -> D:\Projects\CPP\ConsoleJumper_GH\Debug\ConsoleJumper.exe
